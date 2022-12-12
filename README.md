@@ -1,5 +1,3 @@
-# nginxLoadBalancerPythonFlask
-
 This is a simple example of login micro services
 
 To get this working on an Ubuntu desktop system
